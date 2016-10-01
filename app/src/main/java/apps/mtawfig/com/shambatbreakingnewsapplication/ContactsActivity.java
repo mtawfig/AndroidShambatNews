@@ -17,44 +17,12 @@ import java.util.List;
 
 public class ContactsActivity extends AppCompatActivity {
 
-    String phoneNumber;
-    ListView lv;
-    ArrayList<String> contacts = new ArrayList<String>();
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_contacts);
 
-        ContactList contactList=this.getContacts();
-        ArrayAdapter<ContactInfo> adapter=new ContactAdapter(this, contactList.getContacts());
 
-        new ListActivity().setListAdapter(adapter);
-    }
-
-    private ContactList getContacts()
-    {
-        ContactList contactList=new ContactList();
-        Uri uri=ContactsContract.Contacts.CONTENT_URI;
-        ContentResolver cr=getContentResolver();
-        String sortOrder = ContactsContract.Contacts.DISPLAY_NAME + " COLLATE LOCALIZED ASC";
-        Cursor cur=cr.query(uri, null, null, null, sortOrder);
-        if(cur.getCount()>0)
-        {
-            String id;
-            String name;
-            while(cur.moveToNext())
-            {
-                ContactInfo c =new ContactInfo();
-                id = cur.getString(cur.getColumnIndex(ContactsContract.Contacts._ID));
-                name=cur.getString(cur.getColumnIndex(ContactsContract.Contacts.DISPLAY_NAME));
-                c.setId(id);
-                c.setDisplayName(name);
-                contactList.addContact(c);
-            }
-        }
-        cur.close();
-        return contactList;
     }
 
     public void backButtonClick(View view) {

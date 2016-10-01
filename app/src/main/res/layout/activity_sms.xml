@@ -66,8 +66,9 @@
             android:layout_height="match_parent"
             android:id="@+id/txtMessage"
             android:layout_weight="1"
-            android:background="#f1ffffff"
+            android:background="#c6ffffff"
             android:gravity="start"
+            android:hint="أدخل نص الرسالة هنا .."
             android:padding="15dp" />
 
     </LinearLayout>

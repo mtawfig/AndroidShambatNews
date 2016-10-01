@@ -67,7 +67,7 @@
             android:layout_height="match_parent"
             android:id="@+id/listViewContacts"
             android:layout_weight="1"
-            android:background="#5c7f8183"
+            android:background="#c6ffffff"
             android:choiceMode="singleChoice" />
 
     </LinearLayout>
