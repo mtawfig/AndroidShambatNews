@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "971502774773",
+    "firebase_url": "https://shambatbreakingnews.firebaseio.com",
+    "project_id": "shambatbreakingnews",
+    "storage_bucket": "shambatbreakingnews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971502774773:android:86d797dc60b68267",
+        "android_client_info": {
+          "package_name": "com.mtawfig.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971502774773-hhbjqr76v6t637fun3u28hrebdi8celm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB2PYS7pzhl_CP-v8-YCxY1vJ-hi5pUsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
