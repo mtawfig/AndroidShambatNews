@@ -13,4 +13,9 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+
+    <string name="service_name">Backendless</string>
+    <string name="service_type">User Service</string>
+    <string name="loggedIn_text">You are now successfully logged in.\nThis concludes the example. Use the button below to logout.</string>
+    <string name="registered_text">Thank you for registering!\nYou can use your email to login.</string>
 </resources>

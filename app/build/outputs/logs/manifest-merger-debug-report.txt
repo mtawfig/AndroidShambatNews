@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:2:1-39:12
+	xmlns:android
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:10:22-64
+application
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:12:5-37:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:17:9-40
+activity#apps.mtawfig.com.shambatbreakingnewsapplication.ContactsActivity
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:18:9-20:48
+	android:label
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:19:13-45
+activity#apps.mtawfig.com.shambatbreakingnewsapplication.MainActivity
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:22:9-24:47
+	android:label
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:23:13-41
+activity#apps.mtawfig.com.shambatbreakingnewsapplication.SmsActivity
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:26:19-46
+activity#apps.mtawfig.com.shambatbreakingnewsapplication.LoginActivity
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:28:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:32:27-74
+activity#apps.mtawfig.com.shambatbreakingnewsapplication.SignupActivity
+ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:36:9-61
+	android:name
+		ADDED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml:36:19-49
+uses-sdk
+INJECTED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyGitHub\ShambatBreakingNewsApplication\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
