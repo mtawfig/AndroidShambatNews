@@ -1,3 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d7d2972d9b3d2e39ef37ef5753a5a9c2edc1ca34.jar" />
+    </item>
+    <item
+        jar="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_c488728e5d4172819fe769aa28dcf9a1682a9641.jar" />
+    </item>
+    <item
+        jar="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_081857b6fa215188ce7a9c1e73996a3eb3c92e68.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mostafa\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0_f77a8643416bdb8af10e36c37988cfb603471461.jar" />
+    </item>
+    <item
+        jar="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_b939c04642dd9d2078d9ddd42df39f504922e6d1.jar" />
+    </item>
+    <item
+        jar="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_cd2a615dab3d1b1d2485950572cfc49f2155657c.jar" />
+    </item>
+    <item
+        jar="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_cf0f18ce873e65844094fbf071f9fe526a3f83f1.jar" />
+    </item>
+    <item
+        jar="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_416fc684acfbbefc17c76ba2dd73d3157804c648.jar" />
+    </item>
+    <item
+        jar="D:\MyGitHub\ShambatBreakingNewsApplication\app\libs\backendless.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a3a49f3467786f92654fb4432c1b71505cba8c38">
+        <dex dex="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\pre-dexed\debug\backendless_0789c0f592fcf953974f662bad732f9cced38467.jar" />
+    </item>
+    <item
+        jar="C:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\MyGitHub\ShambatBreakingNewsApplication\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_4084d2737c85da4e761f1a3f194a68d8c627c4e0.jar" />
+    </item>
+
+</items>
